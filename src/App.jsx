@@ -1,7 +1,7 @@
 import {BrowserRouter} from 'react-router-dom'
 
 import{About, Contact, Experience, Feedbacks, Hero, Navbar, Tech, Works, StarsCanvas} from "./components";
-
+//use context api here and this is for the state passing
 const App =()=> {
 
   return (
