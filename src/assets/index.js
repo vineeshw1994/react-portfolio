@@ -30,6 +30,15 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+
+import madura from './company/madura.jpeg'
+import hdfclogo from './company/hdfclogo.png'
+import grameen from './company/grameenkoota.webp'
+import brototype from './company/brototype.jpg'
+
+
+import ecommerce from './ecom.png'
+import logicLense from './logicLense.png'
 export {
   logo,
   backend,
@@ -59,4 +68,10 @@ export {
   carrent,
   jobit,
   tripguide,
+  madura,
+  hdfclogo,
+  grameen,
+  brototype,
+  logicLense,
+  ecommerce,
 };
