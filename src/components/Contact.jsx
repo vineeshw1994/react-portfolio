@@ -21,15 +21,15 @@ const Contact = () => {
     let isValid = true;
 
     if (!formRef.current.name.value.trim()) {
-      errors.name = 'Name is required';
+      errors.name = 'write your name';
       isValid = false;
     }
     if (!formRef.current.email.value.trim()) {
-      errors.email = 'Email is required';
+      errors.email = 'Write your Email';
       isValid = false;
     }
     if (!formRef.current.message.value.trim()) {
-      errors.message = 'Message is required';
+      errors.message = 'write something here....';
       isValid = false;
     }
 
